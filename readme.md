@@ -37,6 +37,10 @@
   - React
     - [Установка с поддержкой Typescript](web-front-end/react/install-typescript.md)
 
+  - Emotion
+    - [Установка с поддержкой Typescript](web-front-end/emotion/install-typescript.md)
+    - [Интеграция с Babel](web-front-end/emotion/integration-babel.md)
+
 - Редакторы
 
   - [VSCode](editors/vscode.md)
